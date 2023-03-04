@@ -22,7 +22,7 @@
 - [Administaracja i budowa aplikacji w chmurze](https://github.com/wojciech11/se_cloud_app_administration_and_development)
 - [Narzędzia i platformy dla budowy aplikacji w chmurze](https://github.com/wojciech11/cloud_dev_tools_and_platforms)
 - [Continuous Delivery i deployment ](https://github.com/wojciech11/se_continuous_delivery_and_deployment)
-- [12faktor app](https://12factor.net/)
+- [12factor app](https://12factor.net/)
 
 ### Prowadzenie projektu
 
