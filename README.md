@@ -2,7 +2,7 @@
 
 0. Wstęp - [slajdy](00_wstep/index.pdf)([html](00_wstep)) i [przykład struktury repo gita](00_example),
 
-1. Przedstawienie wymagań projektowych i organizacja grup z podziałem na role, 
+1. Przedstawienie wymagań projektowych i organizacja grup z podziałem na role - [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md)),
 
 2. Techniki komunikacji serwisów, 
 
