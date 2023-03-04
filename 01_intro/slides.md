@@ -71,7 +71,7 @@ style: |
 - Czy zmienność może mieć charakter okresowy, czy raczej będzie to jednorodny trend?
 - Czy potrzebujemy niezależnego skalowania komponentów aplikacji?
 
-Napkin match &amp; perf testing
+<small>Napkin math &amp; perf testing</small>
 
 ---
 <!-- _class: lead -->
