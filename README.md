@@ -9,7 +9,10 @@
    - [Techniki komunikacji serwisów](02_srv_comm/README.md),
    - [Design Doc](02_design_doc/README.md).
 
-3. Część 3 - Techniki projektowania skalowalnych aplikacji;
+3. Część 3:
+
+   - Techniki projektowania skalowalnych aplikacji;
+   - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
 4. Część 4 - Techniki wdrażania aplikacji skalowalnych;
 
