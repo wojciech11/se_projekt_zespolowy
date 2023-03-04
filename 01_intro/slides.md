@@ -32,6 +32,7 @@ style: |
 - Sposób udostępniania aplikacji użytkownikom
 - Monolit vs Mikroserwisy
 - -&gt; design doc
+- -&gt; architektura (draw.io)
 
 ---
 <!-- _class: lead -->
