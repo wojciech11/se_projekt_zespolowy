@@ -32,8 +32,8 @@
 
 ### Prowadzenie projektu
 
-- deliver patch/patch;
-- [Making sense of MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp);
-- [v1/v2](https://katemats.com/blog/lean-software-development-build-v1s-and-v2s);
-- [Writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183);
+- deliver patch/patch,
+- [Making sense of MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp),
+- [v1/v2](https://katemats.com/blog/lean-software-development-build-v1s-and-v2s),
+- [Writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183),
 - [Cal Newport blog](https://www.calnewport.com/blog/).
