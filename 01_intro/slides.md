@@ -70,8 +70,7 @@ style: |
 - Czy spodziewamy się zmiennej ilości użytkowników?
 - Czy zmienność może mieć charakter okresowy, czy raczej będzie to jednorodny trend?
 - Czy potrzebujemy niezależnego skalowania komponentów aplikacji?
-
-<small>Napkin math &amp; perf testing</small>
+- Napkin math &amp; perf testing
 
 ---
 <!-- _class: lead -->
