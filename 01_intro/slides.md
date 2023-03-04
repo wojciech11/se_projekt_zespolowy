@@ -31,7 +31,7 @@ style: |
 - Wstępne ustalenie stacku technologicznego
 - Sposób udostępniania aplikacji użytkownikom
 - Monolit vs Mikroserwisy
-- &gt; design doc
+- -&gt; design doc
 
 ---
 <!-- _class: lead -->
@@ -59,7 +59,7 @@ style: |
 <br />
 
 - Continuous Delivery
-
+- github workflow
 
 ---
 <!-- _class: lead -->
