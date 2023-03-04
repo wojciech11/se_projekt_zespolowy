@@ -39,9 +39,9 @@ style: |
 ## Metody wytwarzania oprogramowania
 <br>
 
-- Agile
-- Narzędzia do trackowania tasków (github, JIRA, YouTrack, ClickUp)
-- Organizacja zespołów
+- Agile,
+- Narzędzia do trackowania tasków (github, JIRA, YouTrack, ClickUp),
+- Organizacja zespołów (patrze [team topologies](https://teamtopologies.com/key-concepts))
 
 ---
 <!-- _class: lead -->

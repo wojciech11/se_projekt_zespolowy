@@ -1,19 +1,21 @@
 # Techniczny projekt zespołowy
 
-0. Wstęp - [slajdy](00_wstep/index.pdf)([html](00_wstep)) i [przykład struktury repo gita](00_example),
+0. Wstęp - [slajdy](00_wstep/index.pdf) ([html](00_wstep)) i [przykład struktury repo gita](00_example);
 
-1. Przedstawienie wymagań projektowych i organizacja grup z podziałem na role - [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md)),
+1. Przedstawienie wymagań projektowych i organizacja grup z podziałem na role - [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md));
 
-2. Techniki komunikacji serwisów, 
+2. Część 2:
 
-3. Techniki projektowania skalowalnych aplikacji, 
+   - [Techniki komunikacji serwisów](02_srv_comm/README.md),
+   - [Design Doc](02_design_doc/README.md).
 
-4. Techniki wdrażania aplikacji skalowalnych, 
+3. Część 3 - Techniki projektowania skalowalnych aplikacji;
 
-5. Techniki skalowania aplikacji, 
+4. Część 4 - Techniki wdrażania aplikacji skalowalnych;
 
-6. Narzędzia testowania aplikacji skalowalnych, 
+5. Cześć 5 - Techniki skalowania aplikacji;
 
+6. Część 6 - Narzędzia testowania aplikacji skalowalnych.
 
 ## Materiały dodatkowe
 
