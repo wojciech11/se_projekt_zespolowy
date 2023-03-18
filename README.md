@@ -12,7 +12,7 @@
 
 3. Część 3:
 
-   - Spradzenie czy jest `plan.md` i draft design doc,
+   - Spradzenie czy jest `docs/plan.md` i więcej niż draft `docs/design_doc.md`,
    - Techniki projektowania skalowalnych aplikacji,
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
