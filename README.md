@@ -6,21 +6,27 @@
 
 2. Część 2:
 
-   - Sprawdzenie czy jest repo githuba, `README.md`, `plan.md`;
-   - [Techniki komunikacji serwisów](02_srv_comm/README.md);
+   - Sprawdzenie czy jest: repo githuba, `README.md` i `plan.md`,
+   - [Techniki komunikacji serwisów](02_srv_comm/README.md),
    - [Design Doc](02_design_doc/README.md).
 
 3. Część 3:
 
-   - Spradzenie czy jest `plan.md` i draft design doc;
-   - Techniki projektowania skalowalnych aplikacji;
+   - Spradzenie czy jest `plan.md` i draft design doc,
+   - Techniki projektowania skalowalnych aplikacji,
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
 4. Część 4 - Techniki wdrażania aplikacji skalowalnych;
 
-5. Cześć 5 - Techniki skalowania aplikacji;
+5. Cześć 5:
+   - Status aplikacji,
+   - Techniki skalowania aplikacji;
 
-6. Część 6 - Narzędzia testowania aplikacji skalowalnych.
+6. Część 6 - Narzędzia testowania aplikacji skalowalnych;
+
+7. Demo wersji alpha/beta;
+
+8. Oddanie projektu (tydzień przed przesłanie do prowadzącego), demo, oraz  dyskusja lesson learnt.
 
 ## Materiały dodatkowe
 
