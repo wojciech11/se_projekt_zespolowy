@@ -18,10 +18,13 @@ Mamy przed sobą osiem spotkań, co 2 tygodnie:
    - Techniki projektowania skalowalnych aplikacji,
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
-4. Część 4 - Techniki wdrażania aplikacji skalowalnych;
+4. Część 4:
+
+   - Status aplikacji, planu, oraz ETA,
+   - Techniki wdrażania aplikacji skalowalnych.
 
 5. Cześć 5:
-   - Status aplikacji,
+   - Status aplikacji, planu, oraz ETA,
    - Techniki skalowania aplikacji;
 
 6. Część 6 - Narzędzia testowania aplikacji skalowalnych;
