@@ -12,6 +12,7 @@
 
 3. Część 3:
 
+   - Spradzenie czy jest `plan.md` i draft design doc;
    - Techniki projektowania skalowalnych aplikacji;
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
