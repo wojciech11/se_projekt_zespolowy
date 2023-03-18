@@ -6,7 +6,8 @@
 
 2. Część 2:
 
-   - [Techniki komunikacji serwisów](02_srv_comm/README.md),
+   - Sprawdzenie czy jest repo githuba, `README.md`, `plan.md`;
+   - [Techniki komunikacji serwisów](02_srv_comm/README.md);
    - [Design Doc](02_design_doc/README.md).
 
 3. Część 3:
