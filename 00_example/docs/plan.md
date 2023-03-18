@@ -2,10 +2,10 @@
 
 For managing tasks, you can use the github project. The further in time, the bigger unit we use:
 
-Data                    |  Task        | Notatka       |
-------------------------|--------------|---------------|
-2023-03-11              |              |  Zrobilismy X |
-2023-05-01 - 2023-05-18 |              |  Zrobilismy X |
+Data                    |  Task(s)        | Notatka   |
+------------------------|-----------------|-----------|
+2023-03-11              |  Task A, Task B | Zrobimy X |
+2023-05-01 - 2023-05-18 |                 | Zrobimy X |
 
 ps. We use the markdown solely for educational intentions here. There are much better approaches, e.g., Google Spreadsheet or planning/tickting tools.
 
