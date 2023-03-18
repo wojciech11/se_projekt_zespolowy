@@ -6,7 +6,7 @@
 
 2. Część 2:
 
-   - Sprawdzenie czy jest: repo githuba, `README.md` i `plan.md`,
+   - Sprawdzenie czy jest: repo githuba, `README.md` i `docs/plan.md`,
    - [Techniki komunikacji serwisów](02_srv_comm/README.md),
    - [Design Doc](02_design_doc/README.md).
 
