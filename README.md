@@ -14,7 +14,7 @@ Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy si
 
 3. Część 3:
 
-   - Sprawdzenie: progres dev aplikacji, `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft),
+   - Sprawdzenie: progres dev aplikacji (coś już działającego), `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft),
    - Techniki projektowania i wdrażania skalowalnych aplikacji,
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
