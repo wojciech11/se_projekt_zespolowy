@@ -1,10 +1,10 @@
 # Techniczny projekt zespołowy
 
-Mamy przed sobą osiem spotkań, co 2 tygodnie:
+Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy się czterokrotnie:
 
 0. Wstęp - [slajdy](00_wstep/index.pdf) ([html](00_wstep)) i [przykład struktury repo gita](00_example);
 
-1. Przedstawienie wymagań projektowych i organizacja grup z podziałem na role - [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md));
+1. Cześć 1 - Przedstawienie wymagań projektowych i organizacja grup z podziałem na role - [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md));
 
 2. Część 2:
 
@@ -14,25 +14,15 @@ Mamy przed sobą osiem spotkań, co 2 tygodnie:
 
 3. Część 3:
 
-   - Sprawdzenie: `docs/plan.md` i `docs/design_doc.md` (więcej niż draft) oraz progres dev aplikacji,
-   - Techniki projektowania skalowalnych aplikacji,
+   - Sprawdzenie: progres dev aplikacji, `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft),
+   - Techniki projektowania i wdrażania skalowalnych aplikacji,
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
-4. Część 4:
+5. Cześć 4:
 
-   - Sprawdzenie: progres dev aplikacji, zmiany w planie, oraz ETA,
-   - Techniki wdrażania aplikacji skalowalnych.
-
-5. Cześć 5:
-
-   - Sprawdzenie: progres dev aplikacji, planu, oraz ETA,
-   - Techniki skalowania aplikacji;
-
-6. Część 6 - Narzędzia testowania aplikacji skalowalnych;
-
-7. Demo wersji alpha/beta;
-
-8. Oddanie projektu (tydzień przed przesłanie do prowadzącego), demo, oraz  dyskusja lesson learnt.
+   - Techniki skalowania i testowania aplikacji;
+   - Oddanie projektu (v1 przesłanie do prowadzącego, tydzień przed ostatnim spotkaniem), demo, oraz dyskusja lesson learnt ([wymagania](04_oddanie_projektu/README.md));
+   - Egzamin.
 
 ## Materiały dodatkowe
 

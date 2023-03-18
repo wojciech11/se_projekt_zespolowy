@@ -2,7 +2,7 @@
 
 ## Execution
 
-- **DORA**: Deployment freq, Lead time, failure freq, 
+- **DORA**: Deployment freq, Lead time, failure freq,
 - [SPACE](https://www.infoq.com/news/2021/03/space-developer-productivity/)
 
 <!--
@@ -19,8 +19,23 @@ I bring at the 1on1 and retros DF and Lead Time; there were a few times when we 
 
 ## Work mgmt
 
-- Kanban - aging tasks first, before anything more complex
+- Kanban - aging tasks first, before anything more complex, reducing WIP
 
 ## References
 
-- TBD
+- [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002);
+- Kanban:
+
+  - [Kanban Guide](https://prokanban.org/the-kanban-guide/),
+  - [Daniel Vacanti's talks from on Kanban](https://www.youtube.com/watch?v=689kYrWGqfE) (seria [Fixing Your Kanban](https://www.youtube.com/watch?v=ZP2NOy0EBgI&list=PL9uyGDiy_ChVfUxjc5gowNg0wW0gLFnx6) jest dobrym startem),
+  - https://www.crisp.se/gratis-material-och-guider/kanban.
+
+- Scrum:
+
+  - **zacznij od poznania początków**, żeby uniknąć wypaczonego Scrum: [Jeff Sutherland on scrum](https://www.youtube.com/watch?v=O7cA1q0XwhE), [Jeff Sutherland google talk](https://www.youtube.com/watch?v=M1q6b9JI2Wc), [Robert C. Martin](https://www.youtube.com/watch?v=hG4LH6P8Syk), i [Ken Schwaber](https://www.youtube.com/watch?v=IyNPeTn8fpo),
+  - [Scrum guide](https://www.scrum.org/resources/scrum-guide).
+
+- [Scrum + Kanban from Trenches](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2/);
+- ShapeUp (tutaj nie mam doświadczenia) - https://basecamp.com/shapeup;
+- https://blog.crisp.se/.
+
