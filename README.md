@@ -32,7 +32,7 @@ Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy si
 - [Narzędzia i platformy dla budowy aplikacji w chmurze](https://github.com/wojciech11/cloud_dev_tools_and_platforms),
 - [Continuous Delivery i deployment ](https://github.com/wojciech11/se_continuous_delivery_and_deployment),
 - [12factor app](https://12factor.net/),
-- [K&S and CN for devs](https://github.com/wojciech12/workshop_kubernetes_and_cloudnative).
+- [K8S and CN for devs](https://github.com/wojciech12/workshop_kubernetes_and_cloudnative).
 
 ### Prowadzenie projektu
 
