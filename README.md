@@ -14,7 +14,7 @@ Mamy przed sobą osiem spotkań, co 2 tygodnie:
 
 3. Część 3:
 
-   - Spradzenie czy jest `docs/plan.md` i `docs/design_doc.md` (więcej niż draft),
+   - Spradzenie czy jest `docs/plan.md` i `docs/design_doc.md` (więcej niż draft) oraz status dev,
    - Techniki projektowania skalowalnych aplikacji,
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
