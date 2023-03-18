@@ -8,7 +8,7 @@ Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy si
 
 2. Część 2:
 
-   - Sprawdzenie czy jest: repo githuba, `README.md` i `docs/plan.md` czy jak się komunikujecie między zajęciami (slack, discord?),
+   - Sprawdzenie czy jest: repo githuba, `README.md` i `docs/plan.md` czy jak się komunikujecie między zajęciami (slack, discord?)/jak uzgodniliście współpracę,
    - [Techniki komunikacji serwisów](02_srv_comm/README.md),
    - [Design Doc](02_design_doc/README.md).
 
