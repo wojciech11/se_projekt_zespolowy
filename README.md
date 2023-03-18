@@ -14,17 +14,18 @@ Mamy przed sobą osiem spotkań, co 2 tygodnie:
 
 3. Część 3:
 
-   - Spradzenie czy jest `docs/plan.md` i `docs/design_doc.md` (więcej niż draft) oraz dev aplikacji,
+   - Sprawdzenie: `docs/plan.md` i `docs/design_doc.md` (więcej niż draft) oraz progres dev aplikacji,
    - Techniki projektowania skalowalnych aplikacji,
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
 4. Część 4:
 
-   - Status aplikacji, planu, oraz ETA,
+   - Sprawdzenie: progres dev aplikacji, zmiany w planie, oraz ETA,
    - Techniki wdrażania aplikacji skalowalnych.
 
 5. Cześć 5:
-   - Status aplikacji, planu, oraz ETA,
+
+   - Sprawdzenie: progres dev aplikacji, planu, oraz ETA,
    - Techniki skalowania aplikacji;
 
 6. Część 6 - Narzędzia testowania aplikacji skalowalnych;
