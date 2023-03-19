@@ -34,7 +34,7 @@ Demo 3 - commit messages
 
 ## Tools
 
-You should mainly use **git in the terminal** ([polpur aliases](https://github.com/sorin-ionescu/prezto/tree/master/modules/git#branch-b)), still a visual tool helps a lot:
+You should mainly use **git in the terminal** ([popular aliases](https://github.com/sorin-ionescu/prezto/tree/master/modules/git#branch-b)), still a visual tool helps a lot:
 
 - https://www.sourcetreeapp.com
 - gitk/gitg
