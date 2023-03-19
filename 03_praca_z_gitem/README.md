@@ -2,6 +2,8 @@
 
 Powtórka podstaw - [instrukcja](https://github.com/wojciech11/se_software_build_automation_tools/blob/master/01_exercise/README_pl.md).
 
+Git is not only a tool for storing the code but a powerfull communication tool for teams!
+
 ## Best Practises
 
 Demo 1:
@@ -12,12 +14,9 @@ My default workflow:
 - github flow (*one difference* when to deploy to prod),
 - PR merge strategy: squash and merge,
 - optional: early in draft (good for communication).
+- **Mono repo first**
 
-**Mono repo first**
-
-Demo 2:
-
-Working with env:
+Demo 2 - working with env:
 
 Example:
 
@@ -28,9 +27,10 @@ Example:
 
 Bonus: env per brach
 
-Demo 3:
+Demo 3 - commit messages
 
-- commit messages
+- My defaul: imperative -> semantic (see below),
+- [commit messages](https://github.com/wojciech11/se_software_build_automation_tools/blob/master/01_exercise/README_pl.md#zaawansowane---w%C5%82a%C5%9Bciwe-opisy-zmian).
 
 ## Tools
 
