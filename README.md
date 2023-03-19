@@ -8,21 +8,22 @@ Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy si
 
 2. Część 2:
 
-   - Sprawdzenie czy jest: repo githuba, `README.md` i `docs/plan.md` czy jak się komunikujecie między zajęciami (slack, discord?)/jak uzgodniliście współpracę, początki aplikacji,
-   - [Techniki komunikacji serwisów](02_srv_comm/README.md),
+   - Sprawdzenie czy jest: repo githuba, `README.md` i `docs/plan.md` czy jak się komunikujecie między zajęciami (slack, discord?)/jak uzgodniliście współpracę, początki aplikacji;
+   - [Techniki komunikacji serwisów](02_srv_comm/README.md);
    - [Design Doc](02_design_doc/README.md).
 
 3. Część 3:
 
-   - Sprawdzenie: progres dev aplikacji (coś już działającego, najlepiej wczesna alpha), `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft),
-   - Techniki projektowania i wdrażania skalowalnych aplikacji,
-   - [Praca w zespole z gitem](03_praca_z_gitem/README.md),
+   - Sprawdzenie: progres dev aplikacji (coś już działającego, najlepiej wczesna alpha), `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft);
+   - Techniki projektowania i wdrażania skalowalnych aplikacji;
+   - [Praca w zespole z gitem](03_praca_z_gitem/README.md);
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
 5. Cześć 4:
 
    - Techniki skalowania i testowania aplikacji;
    - Oddanie projektu (v1 przesłanie do prowadzącego, tydzień przed ostatnim spotkaniem), demo, oraz dyskusja lesson learnt ([wymagania](04_oddanie_projektu/README.md));
+   - Potrzeba procesów i checklisty;
    - Egzamin.
 
 ## Materiały dodatkowe
