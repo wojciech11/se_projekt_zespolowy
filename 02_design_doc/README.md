@@ -2,9 +2,9 @@
 
 ## Wstęp
 
-- Przykłady: [lyft](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9) i [bardziej rozbudowany](https://adityarohilla.com/2022/03/22/the-system-design-template-i-use/)
+- Przykłady: [lyft](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9) i [bardziej rozbudowany](https://adityarohilla.com/2022/03/22/the-system-design-template-i-use/),
 - Podobnie jak proces prowadzenia projektu w firmie, Design Doc rownież ewoluje,
-- Warto zacząć od prostszego formatu w Google Docs, a później iteratywnie poprawiać,
+- Warto zacząć od prostszego formatu w Google Docs, a później iteratywnie poprawiać.
 
 ## Przykład - 20231011-funkcjonalnosc-xyz.doc
 
@@ -54,3 +54,7 @@ Discarded alternatives.
 
 - informacje dotyczące UX/UI design
 - Decison Log
+
+## Warto przeczytać
+
+- https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/
