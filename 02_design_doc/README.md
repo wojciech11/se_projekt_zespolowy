@@ -52,9 +52,10 @@ Discarded alternatives.
 
 ## Możliwe dodatkowe elementy
 
-- informacje dotyczące UX/UI design
-- Decison Log
+- informacje dotyczące UX/UI design, linki do kolejnych odsłon designu,
+- Decison Log - w pierwszych iteracjach można wykorzystać do tego design doc zamiast osobny [ADRów](https://github.com/joelparkerhenderson/architecture-decision-record?ref=the-pragmatic-engineer).
 
 ## Warto przeczytać
 
 - https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/
+- https://www.industrialempathy.com/posts/design-docs-at-google/
