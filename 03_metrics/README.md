@@ -23,6 +23,7 @@ I bring at the 1on1 and retros DF and Lead Time; there were a few times when we 
 
 ## References
 
+- [Measuring an engineering org](https://lethain.com/measuring-engineering-organizations/)
 - [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002);
 - Kanban:
 
