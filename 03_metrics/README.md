@@ -3,7 +3,7 @@
 ## Execution
 
 - **DORA**: Deployment freq, Lead time, failure freq,
-- [SPACE](https://www.infoq.com/news/2021/03/space-developer-productivity/)
+- [SPACE](https://queue.acm.org/detail.cfm?id=3454124)
 
 <!--
 At the current iteration (tech < 20 engineers), no issues with quality, focus on flow of delivery:
