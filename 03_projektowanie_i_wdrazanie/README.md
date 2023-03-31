@@ -6,7 +6,9 @@ Projektowanie:
 - Estimations,
 - Horizontal vs Vertical scalling,
 - Traceable bullet approach,
-- lightweigh diagrams - lucid, yEd, ...
+- lightweigh diagrams - lucid, yEd, ...,
+- patterns (queues),
+- DDD.
 
 Wdrażanie:
 
