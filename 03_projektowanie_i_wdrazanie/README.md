@@ -21,7 +21,7 @@ Wdrażanie:
   - canary,
   - shadow deployment.
 
-- observability - monitoring, logging, APM, tracing (see [slides](https://github.com/wojciech12/workshop_kubernetes_and_cloudnative/blob/master/04_app_development/slides/index.pdf)),
+- observability - monitoring, logging, APM, tracing (see [the course on cloud app administration and dev](https://github.com/wojciech11/se_cloud_app_administration_and_development)),
 - error budget.
 
 Automatyzacja:
