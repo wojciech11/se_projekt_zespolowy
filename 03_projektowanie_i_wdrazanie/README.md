@@ -21,8 +21,13 @@ Wdrażanie:
   - canary,
   - shadow deployment.
 
-- observability - monitoring, logging, APM, tracing (see [slides](https://github.com/wojciech12/workshop_kubernetes_and_cloudnative/blob/master/04_app_development/slides/index.pdf)).
+- observability - monitoring, logging, APM, tracing (see [slides](https://github.com/wojciech12/workshop_kubernetes_and_cloudnative/blob/master/04_app_development/slides/index.pdf)),
+- error budget.
 
 Automatyzacja:
 
 - effective != efficient
+
+## References
+
+- [Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices/dp/032194318X)
