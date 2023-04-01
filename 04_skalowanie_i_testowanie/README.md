@@ -7,7 +7,12 @@
 - macro- vs micro- services vs ... (monorepo)
 - Patterns:
 
-  - TBA
+  - observability (from the customer perspective),
+  - reverse proxy,
+  - load balancers (round robin/sticky),
+  - queues / pub sub,
+  - caching,
+  - CDNs.
 
 ## Testowanie
 
