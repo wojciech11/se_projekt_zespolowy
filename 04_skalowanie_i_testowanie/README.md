@@ -14,7 +14,10 @@
   - caching,
   - CDNs.
 
-Warto zrobić: https://app.codility.com/programmers/lessons/1-iterations/
+Warto wykształcić wrażliwość na kod, który może być nie wydajny:
+
+- https://app.codility.com/programmers/lessons/1-iterations/,
+- co u mnie się kiedyś sprawdziło, [template projektu](https://github.com/wojciech11/cracking_coding_challenges).
 
 ## Testowanie
 
