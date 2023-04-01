@@ -14,6 +14,8 @@
   - caching,
   - CDNs.
 
+Warto zrobić: https://app.codility.com/programmers/lessons/1-iterations/
+
 ## Testowanie
 
 - functional tests, e.g, unit tests, integration test (a part of CI/CD),
