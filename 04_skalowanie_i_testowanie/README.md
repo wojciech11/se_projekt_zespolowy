@@ -4,7 +4,7 @@
 
 - (1) pragmatism,
 - consider - [v1/v2](https://katemats.com/blog/lean-software-development-build-v1s-and-v2s).
-- macro- vs micro- services vs ... (monorepo)
+- macro- vs micro- services vs ... (monorepo),
 - Patterns:
 
   - observability (from the customer perspective),
