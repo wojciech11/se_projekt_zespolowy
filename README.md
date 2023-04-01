@@ -21,7 +21,7 @@ Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy si
 
 5. Cześć 4:
 
-   - Techniki skalowania i testowania aplikacji;
+   - [Techniki skalowania i testowania aplikacji](04_skalowanie_i_testowanie/README.md);
    - Oddanie projektu (v1 przesłanie do prowadzącego, tydzień przed ostatnim spotkaniem), demo, oraz dyskusja lesson learnt ([wymagania](04_oddanie_projektu/README.md));
    - Potrzeba procesów i checklisty;
    - Egzamin.

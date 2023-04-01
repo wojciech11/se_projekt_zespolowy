@@ -26,6 +26,11 @@ Wdrażanie:
 - observability - monitoring, logging, APM, tracing (see [the course on cloud app administration and dev](https://github.com/wojciech11/se_cloud_app_administration_and_development)),
 - error budget.
 
+```mermaid
+flowchart LR
+    CI(Continuous\nIntegration) --> CDel(Continuous\nDelivery) --> CD(Continuous\nDeployment)
+```
+
 Automatyzacja:
 
 - effective != efficient
