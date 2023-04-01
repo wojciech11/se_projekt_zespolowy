@@ -11,12 +11,17 @@
 
 ## Testowanie
 
-- functional tests, e.g, unit tests, integration test, a part of CI/CD,
-- API end2end (peridical happy path tests on the prod), 
-- performance tests,
+- functional tests, e.g, unit tests, integration test (a part of CI/CD),
+- API end2end (periodical happy path tests on the prod),
+- performance tests (e.g., [locust](https://locust.io/) or [gatling](https://gatling.io/)),
 - iterations (+ retro after more complex implementation).
+
+Do not forget about:
+
+- internal demos for designers/product people,
+- feedback from customers.
 
 ## References
 
-- [Bottlenext of scaleups](https://martinfowler.com/articles/bottlenecks-of-scaleups/),
+- [Bottlenecks of scaleups](https://martinfowler.com/articles/bottlenecks-of-scaleups/),
 - [Martin Fowler blog on testing](https://martinfowler.com/tags/testing.html).
