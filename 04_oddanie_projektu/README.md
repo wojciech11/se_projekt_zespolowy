@@ -9,7 +9,7 @@ Wymagania:
 - `docs/` - plan, design doc, notatki,
 - krótki film z demem podlinkowanym w `README.md`.
 
-Przesłanie projektu:
+Przesłanie projektu po demie
 
 - Spakowane repozytorium gita, przesłać w emailu, w teście emaila powinna być lista wszystkich uczestników projektu;
 - Tytuł - nazwa kursu + grupa.
