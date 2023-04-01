@@ -2,8 +2,19 @@
 
 ## Execution
 
-- **DORA**: Deployment freq, Lead time, failure freq,
-- [SPACE](https://queue.acm.org/detail.cfm?id=3454124)
+- **DORA** ([article](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)):
+   - Deployment freq,
+   - Lead time,
+   - Failure rate,
+   - MTTR.
+
+- [SPACE](https://queue.acm.org/detail.cfm?id=3454124):
+
+   - *Satisfaction* and well-being;
+   - *Performance* is the outcome of a system or process;
+   - *Activity* is a count of actions or outputs completed in the course of performing work;
+   - *Communication and collaboration* capture how people and teams communicate and work together;
+   - *Efficiency and flow* capture the ability to complete work or make progress on it with minimal interruptions or delays, whether individually or through a system.
 
 <!--
 At the current iteration (tech < 20 engineers), no issues with quality, focus on flow of delivery:
@@ -19,7 +30,8 @@ I bring at the 1on1 and retros DF and Lead Time; there were a few times when we 
 
 ## Work mgmt
 
-- Kanban - aging tasks first, before anything more complex, reducing WIP
+- Kanban - aging tasks first, before anything more complex, reducing WIP (see Fixing Your Kanban](https://www.youtube.com/watch?v=ZP2NOy0EBgI&list=PL9uyGDiy_ChVfUxjc5gowNg0wW0gLFnx6)),
+- Scrum - weekly, the process own by the team.
 
 ## References
 
