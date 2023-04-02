@@ -39,7 +39,7 @@ Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy si
 
 ### Prowadzenie projektu
 
-- **tracer bullet approach** (deliver! patch/patch),
+- **tracer bullet approach** (see [c2 wiki](https://wiki.c2.com/?TracerBullets)) / deliver! patch/patch,
 - [Making sense of MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp),
 - [v1/v2](https://katemats.com/blog/lean-software-development-build-v1s-and-v2s),
 - [Writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183),
