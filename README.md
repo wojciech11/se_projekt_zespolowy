@@ -30,7 +30,8 @@ Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy si
 
 ### Techniczne
 
-- [Administaracja i budowa aplikacji w chmurze](https://github.com/wojciech11/se_cloud_app_administration_and_development),
+- [Programowanie Aplikacji Internetowych](https://github.com/wojciech11/se_internet_app_development),
+- [Administracja i budowa aplikacji w chmurze](https://github.com/wojciech11/se_cloud_app_administration_and_development),
 - [Narzędzia i platformy dla budowy aplikacji w chmurze](https://github.com/wojciech11/cloud_dev_tools_and_platforms),
 - [Continuous Delivery i deployment ](https://github.com/wojciech11/se_continuous_delivery_and_deployment),
 - [12factor app](https://12factor.net/),
@@ -38,7 +39,7 @@ Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy si
 
 ### Prowadzenie projektu
 
-- deliver patch/patch,
+- **tracer bullet approach** (deliver! patch/patch),
 - [Making sense of MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp),
 - [v1/v2](https://katemats.com/blog/lean-software-development-build-v1s-and-v2s),
 - [Writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183),
