@@ -37,10 +37,13 @@ Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy si
 - [12factor app](https://12factor.net/),
 - [K8S and CN for devs](https://github.com/wojciech12/workshop_kubernetes_and_cloudnative).
 
-### Prowadzenie projektu
+### Engineering
 
 - **tracer bullet approach** (see [c2 wiki](https://wiki.c2.com/?TracerBullets)) / deliver! patch/patch,
 - [Making sense of MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp),
-- [v1/v2](https://katemats.com/blog/lean-software-development-build-v1s-and-v2s),
+- [v1/v2](https://katemats.com/blog/lean-software-development-build-v1s-and-v2s).
+
+### Misc
+
 - [Writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183),
 - [Cal Newport blog](https://www.calnewport.com/blog/).
