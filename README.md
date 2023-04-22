@@ -1,6 +1,6 @@
 # Techniczny projekt zespołowy
 
-Program (spotykamy 4 krotnie po 4 godziny):
+Program (spotykamy 4 krotnie po 4 godziny), nacisk położony na wspołnej budowane aplikacji:
 
 1. Cześć 1:
 
