@@ -2,13 +2,12 @@
 
 Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy się czterokrotnie:
 
-0. Wstęp - [slajdy](00_wstep/index.pdf) ([html](00_wstep)) i [przykład struktury repo gita](00_example);
+0. Wstęp i przedstawienie wymagań projektowych- [slajdy](00_wstep/index.pdf) ([html](00_wstep)) i [przykład struktury repo gita](00_example);
 
 1. Cześć 1:
 
    - [Praca w zespole z gitem](01_praca_z_gitem/README.md),
-   - Przedstawienie wymagań projektowych i organizacja grup z podziałem na role [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md)).
-
+   - Techniczne aspekty i organizacja grup z podziałem na role [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md)).
 
 2. Część 2:
 
