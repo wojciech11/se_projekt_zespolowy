@@ -1,11 +1,11 @@
 # Techniczny projekt zespołowy
 
-Program (spotykamy 4 krotnie po 4 godziny), nacisk położony na wspołnej budowane aplikacji:
+Program (spotykamy 4 krotnie po 4 godziny), nacisk położony na budowanę aplikacji w zespole:
 
 1. Cześć 1:
 
    - Wstęp i przedstawienie wymagań projektowych - [slajdy](00_wstep/index.pdf) ([html](00_wstep)) i [przykład struktury repo gita](00_example);
-   - [Praca w zespole z gitem](01_praca_z_gitem/README.md),
+   - [Praca w zespole z gitem](01_praca_z_gitem/README.md);
    - Techniczne aspekty i organizacja grup z podziałem na role [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md)).
 
 2. Część 2:
@@ -18,7 +18,6 @@ Program (spotykamy 4 krotnie po 4 godziny), nacisk położony na wspołnej budow
 
    - Sprawdzenie: progres dev aplikacji (coś już działającego, najlepiej wczesna alpha), `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft);
    - [Techniki projektowania i wdrażania skalowalnych aplikacji](03_projektowanie_i_wdrazanie/README.md);
-
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
 5. Cześć 4:
