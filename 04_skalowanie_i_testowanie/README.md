@@ -33,5 +33,6 @@ Do not forget about:
 
 ## References
 
+- [12 factor apps](https://12factor.net/),
 - [Bottlenecks of scaleups](https://martinfowler.com/articles/bottlenecks-of-scaleups/),
 - [Martin Fowler blog on testing](https://martinfowler.com/tags/testing.html).
