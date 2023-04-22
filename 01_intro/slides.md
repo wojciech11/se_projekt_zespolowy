@@ -18,10 +18,10 @@ style: |
 ## Podstawowe pytania
 <br />
 
-- Co chcemy stworzyć (what?)
-- W jakim celu chcemy to stworzyć (why?)
-- W jaki sposób chcemy to stworzyć (how?)
-- -&gt; design doc
+- Co chcemy stworzyć (what?),
+- W jakim celu chcemy to stworzyć (why?),
+- W jaki sposób chcemy to stworzyć (how?),
+- -&gt; design doc.
 
 ---
 <!-- _class: lead -->
@@ -42,6 +42,13 @@ style: |
 - Agile,
 - Narzędzia do trackowania tasków (github, JIRA, YouTrack, ClickUp),
 - Organizacja zespołów (patrze [team topologies](https://teamtopologies.com/key-concepts))
+
+---
+<!-- _class: lead -->
+## Teams
+<br>
+
+- [Product teams vs feature teams](https://www.svpg.com/product-vs-feature-teams/).
 
 ---
 <!-- _class: lead -->

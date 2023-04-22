@@ -4,7 +4,11 @@ Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy si
 
 0. Wstęp - [slajdy](00_wstep/index.pdf) ([html](00_wstep)) i [przykład struktury repo gita](00_example);
 
-1. Cześć 1 - Przedstawienie wymagań projektowych i organizacja grup z podziałem na role - [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md));
+1. Cześć 1:
+
+   - [Praca w zespole z gitem](01_praca_z_gitem/README.md),
+   - Przedstawienie wymagań projektowych i organizacja grup z podziałem na role [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md)).
+
 
 2. Część 2:
 
@@ -16,7 +20,7 @@ Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy si
 
    - Sprawdzenie: progres dev aplikacji (coś już działającego, najlepiej wczesna alpha), `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft);
    - [Techniki projektowania i wdrażania skalowalnych aplikacji](03_projektowanie_i_wdrazanie/README.md);
-   - [Praca w zespole z gitem](03_praca_z_gitem/README.md);
+
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
 5. Cześć 4:
