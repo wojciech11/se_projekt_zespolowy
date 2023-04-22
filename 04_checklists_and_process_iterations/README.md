@@ -7,7 +7,13 @@
 3. Communication,
 4. Retrospektywa,
 5. Checklists,
-6. Processs.
+6. Processs,
+7. (if makes sense) automation.
+
+Remember:
+
+- not only do something, stand there!
+- broken window and trust.
 
 ## Checklists
 
@@ -57,6 +63,14 @@ Promote best practises accross your organization. Bring unknown-unknows, help pe
 ### Complex roll-out
 
 see [Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices/dp/032194318X).
+
+## Retrospectives
+
+TBA
+
+## Process -&gt; Automation
+
+TBA
 
 ## Literatura dodatkowa
 
