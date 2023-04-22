@@ -11,7 +11,7 @@ style: |
 
 ---
 <!-- _class: lead -->
-# Przygotowanie i prowadzenie projektu IT
+# Techniczne aspekty i role w projekcie
 
 ---
 <!-- _class: lead -->
@@ -78,6 +78,21 @@ style: |
 - Czy zmienność może mieć charakter okresowy, czy raczej będzie to jednorodny trend?
 - Czy potrzebujemy niezależnego skalowania komponentów aplikacji?
 - Napkin math &amp; perf testing
+-&gt; design doc
+
+---
+<!-- _class: lead -->
+# Podział na role
+
+---
+<!-- _class: lead -->
+## Role w projekcie
+<br />
+
+- Owner projektu / lead (nie koniecznie menager!),
+- Frontend,
+- Backend,
+- ...
 
 ---
 <!-- _class: lead -->
