@@ -1,11 +1,10 @@
 # Techniczny projekt zespołowy
 
-Mamy przed sobą osiem spotkań po 4 godziny, co 2 tygodniem, czyli spotykamy się czterokrotnie:
-
-0. Wstęp i przedstawienie wymagań projektowych- [slajdy](00_wstep/index.pdf) ([html](00_wstep)) i [przykład struktury repo gita](00_example);
+Program (spotykamy 4 krotnie po 4 godziny):
 
 1. Cześć 1:
 
+   - Wstęp i przedstawienie wymagań projektowych - [slajdy](00_wstep/index.pdf) ([html](00_wstep)) i [przykład struktury repo gita](00_example);
    - [Praca w zespole z gitem](01_praca_z_gitem/README.md),
    - Techniczne aspekty i organizacja grup z podziałem na role [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md)).
 
