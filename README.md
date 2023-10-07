@@ -6,6 +6,7 @@ Program (spotykamy 4 krotnie po 4 godziny), nacisk położony na budowanę aplik
 
    - Wstęp i przedstawienie wymagań projektowych - [slajdy](00_wstep/index.pdf) ([html](00_wstep)) i [przykład struktury repo gita](00_example);
    - [Praca w zespole z gitem](01_praca_z_gitem/README.md);
+   - Pomysły: [znajdowanie](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_finding_ideas) i [przykłady tematów na duże projekty](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_topic_examples);
    - Techniczne aspekty i organizacja grup z podziałem na role [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md)).
 
 2. Część 2:
@@ -32,16 +33,16 @@ Program (spotykamy 4 krotnie po 4 godziny), nacisk położony na budowanę aplik
 ### Techniczne
 
 - [Programowanie Aplikacji Internetowych](https://github.com/wojciech11/se_internet_app_development),
-- [Administracja i budowa aplikacji w chmurze](https://github.com/wojciech11/se_cloud_app_administration_and_development),
-- [Narzędzia i platformy dla budowy aplikacji w chmurze](https://github.com/wojciech11/cloud_dev_tools_and_platforms),
+- [Administracja i budowa aplikacji w chmurze](https://github.com/wojciech11/se_cloud_app_administration_and_development);
+- [Narzędzia i platformy dla budowy aplikacji w chmurze](https://github.com/wojciech11/cloud_dev_tools_and_platforms);
 - [Continuous Delivery i deployment ](https://github.com/wojciech11/se_continuous_delivery_and_deployment),
-- [12factor app](https://12factor.net/),
+- [12factor app](https://12factor.net/);
 - [K8S and CN for devs](https://github.com/wojciech12/workshop_kubernetes_and_cloudnative).
 
 ### Engineering
 
-- **tracer bullet approach** (see [c2 wiki](https://wiki.c2.com/?TracerBullets)) / deliver! patch/patch,
-- [Making sense of MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp),
+- **tracer bullet approach** (see [c2 wiki](https://wiki.c2.com/?TracerBullets)) / deliver! patch/patch;
+- [Making sense of MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp);
 - [v1/v2](https://katemats.com/blog/lean-software-development-build-v1s-and-v2s).
 
 ### Misc
