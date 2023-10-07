@@ -47,5 +47,5 @@ Program (spotykamy 4 krotnie po 4 godziny), nacisk położony na budowanę aplik
 
 ### Misc
 
-- [Writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183),
+- [Writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183);
 - [Cal Newport blog](https://www.calnewport.com/blog/).
