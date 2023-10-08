@@ -6,7 +6,9 @@
 - Podobnie jak proces prowadzenia projektu w firmie, Design Doc rownież ewoluje,
 - Warto zacząć od prostszego formatu w Google Docs, a później iteratywnie poprawiać.
 
-## Przykład - 20231011-funkcjonalnosc-xyz.doc
+## Przykład - 20231011-funkcjonalnosc-xyz
+
+W waszym repozytorium `docs/YYYYMMDD_design_doc.md` lub `docs/design_doc.md`:
 
 ```
 **Tytuł**
