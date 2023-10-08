@@ -13,7 +13,7 @@ Program (spotykamy 4 krotnie po 4 godziny), nacisk położony na budowanę aplik
 
    - Sprawdzenie czy jest: repo githuba, `README.md` i `docs/plan.md` czy jak się komunikujecie między zajęciami (slack, discord?)/jak uzgodniliście współpracę, początki aplikacji;
    - [Techniki komunikacji serwisów](02_srv_comm/README.md);
-   - dodaj do swojego repozorium: [Design Doc](02_design_doc/README.md).
+   - dodaj do swojego repozorium [Design Doc](02_design_doc/README.md).
 
 3. Część 3:
 
