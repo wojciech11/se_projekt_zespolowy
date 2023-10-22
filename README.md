@@ -49,3 +49,7 @@ Program (spotykamy 4 krotnie po 4 godziny), nacisk położony na budowanę aplik
 
 - [Writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183);
 - [Cal Newport blog](https://www.calnewport.com/blog/).
+
+### Kariera
+
+- [Wskazówki dla kontynuowania rozwoju oraz przygotowania CV, LinkedINa i githuba](https://github.com/wojciech11/se_career_hints_cv_linkedin_and_interviews)
