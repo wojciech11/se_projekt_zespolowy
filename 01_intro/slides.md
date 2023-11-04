@@ -21,7 +21,7 @@ style: |
 - Co chcemy stworzyć (what?),
 - W jakim celu chcemy to stworzyć (why?),
 - W jaki sposób chcemy to stworzyć (how?),
-- następnym kroki: design doc oraz UX/UI mockupy.
+- następnym kroki: design doc oraz UX/UI mockupy (patrz wstęp).
 
 ---
 <!-- _class: lead -->
