@@ -1,4 +1,4 @@
-# Git workflows, working in teams with git
+# Git workflows, working with git in teams
 
 Powtórka podstaw - [instrukcja](https://github.com/wojciech11/se_software_build_automation_tools/blob/master/01_exercise/README_pl.md).
 
@@ -41,9 +41,9 @@ Bonus: później można zainwestować w możliwość tworzenia, tymczasowych śr
 
 You should mainly use **git in the terminal** ([popular aliases](https://github.com/sorin-ionescu/prezto/tree/master/modules/git#branch-b)), still a visual tool helps a lot:
 
-- https://www.sourcetreeapp.com
-- gitk/gitg
-- https://www.gitkraken.com
+- [sourcetreeapp](https://www.sourcetreeapp.com) (my favorite);
+- gitk/gitg;
+- https://www.gitkraken.com - wszystkie platformy.
 
 ## References
 
