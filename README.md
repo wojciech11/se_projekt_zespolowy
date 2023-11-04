@@ -14,26 +14,27 @@ Spotykamy się 5 weekendów (bloki po 6h):
 
 1. Pierwsze kroki:
 
-    - Co zbudować: [jak znaleźć](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_finding_ideas) i [przykłady tematów na duże projekty](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_topic_examples);
+    - Co zbudować: [jak znaleźć pomysł](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_finding_ideas) i [przykłady tematów na duże projekty](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_topic_examples);
    - Techniczne aspekty i organizacja zespołu - [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md));
    - [Design Doc](02_design_doc/README.md) - jako kluczowy element budowy oprogramowania;
    - [Praca z gitem w zespole](01_praca_z_gitem/README.md).
 
 3. Spotkanie 2, demo:
 
-   - github repozytorium z design doc, `README.md` i `docs/plan.md`,
-   - jak się zespół komunikuje między spotkaniami (slack, discord?),
+   - github repozytorium z design doc, `README.md` i `docs/plan.md`;
+   - jak się zespół komunikuje między spotkaniami (slack, discord?);
    - początki aplikacji.
 
     Wykład:
 
+    - Co to znaczy pracować w zespole?
     - Jak planować i komunikować (zarządzać oczekiwaniami) na zewnątrz?
-    - [Techniki komunikacji serwisów](02_srv_comm/README.md);
+    - [Techniki komunikacji serwisów](02_srv_comm/README.md).
 
 3. Spotkanie 3, demo:
 
-   - aplikacji - najlepiej wczesna alpha,
-   - `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft);
+   - aplikacji - najlepiej wczesna alpha;
+   - `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft).
 
    Wykład:
 
@@ -42,7 +43,7 @@ Spotykamy się 5 weekendów (bloki po 6h):
 
 4. Spotkanie 4:
 
-   - demo,
+   - demo;
    - wykład: [Techniki skalowania i testowania aplikacji](04_skalowanie_i_testowanie/README.md).
 
 5. Spotkanie 5:

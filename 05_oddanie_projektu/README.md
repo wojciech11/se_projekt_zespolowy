@@ -1,4 +1,4 @@
-## Wymagania projekt
+## Wymagania do zaliczenia przedmiotu
 
 Wymagania:
 
