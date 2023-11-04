@@ -70,6 +70,7 @@ Spotykamy się 5 weekendów (bloki po 6h):
 
 ### Misc
 
+- [My Heroku Values](https://gist.github.com/adamwiggins/5687294);
 - [Writing with power](https://www.amazon.com/Writing-Power-Techniques-Mastering-Process/dp/0195120183);
 - [Cal Newport blog](https://www.calnewport.com/blog/).
 
