@@ -43,7 +43,8 @@ You should mainly use **git in the terminal** ([popular aliases](https://github.
 
 - [sourcetreeapp](https://www.sourcetreeapp.com) (my favorite);
 - gitk/gitg;
-- https://www.gitkraken.com - wszystkie platformy.
+- [vscode + GitLens](https://www.gitkraken.com/gitlens);
+- [GitKraken](https://www.gitkraken.com) - wszystkie platformy.
 
 ## References
 
