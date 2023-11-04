@@ -1,31 +1,53 @@
 # Techniczny projekt zespołowy
 
-Program (spotykamy 4 krotnie po 4 godziny), nacisk położony na budowanę aplikacji w zespole:
+**Wszystko jest kolejną iteracją, eksperymentem**.
 
-1. Cześć 1:
+Naszym celem jest zbudowanie złożonej aplikacji, szlifowanie naszych umiejętności, eksperymentować i bawić się dobrze:
 
-   - Wstęp i przedstawienie wymagań projektowych - [slajdy](00_wstep/index.pdf) ([html](00_wstep)) i [przykład struktury repo gita](00_example);
-   - [Praca w zespole z gitem](01_praca_z_gitem/README.md);
-   - Pomysły: [znajdowanie](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_finding_ideas) i [przykłady tematów na duże projekty](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_topic_examples);
-   - Techniczne aspekty i organizacja grup z podziałem na role [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md)).
+Spotykamy się 5 weekendów (bloki po 6h):
 
-2. Część 2:
+0. Wstęp - [slajdy](00_wstep/index.pdf) ([html](00_wstep)):
 
-   - Sprawdzenie czy jest: repo githuba, `README.md` i `docs/plan.md` czy jak się komunikujecie między zajęciami (slack, discord?)/jak uzgodniliście współpracę, początki aplikacji;
-   - [Techniki komunikacji serwisów](02_srv_comm/README.md);
-   - dodaj do swojego repozorium [Design Doc](02_design_doc/README.md).
+   - Najlepsze praktyki dla budowy oprogramowania w zespole;
+   - Przedstawienie wymagań projektowych;
+   - [Przykładowa struktura repozytorium gita](00_example).
 
-3. Część 3:
+1. Pierwsze kroki:
 
-   - Sprawdzenie: progres dev aplikacji (coś już działającego, najlepiej wczesna alpha), `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft);
+    - Co zbudować: [jak znaleźć](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_finding_ideas) i [przykłady tematów na duże projekty](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_topic_examples);
+   - Techniczne aspekty i organizacja zespołu - [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md));
+   - [Design Doc](02_design_doc/README.md) - jako kluczowy element budowy oprogramowania;
+   - [Praca z gitem w zespole](01_praca_z_gitem/README.md).
+
+3. Spotkanie 2, demo:
+
+   - github repozytorium z design doc, `README.md` i `docs/plan.md`,
+   - jak się zespół komunikuje między spotkaniami (slack, discord?),
+   - początki aplikacji.
+
+    Wykład:
+
+    - Jak planować i komunikować (zarządzać oczekiwaniami) na zewnątrz?
+    - [Techniki komunikacji serwisów](02_srv_comm/README.md);
+
+3. Spotkanie 3, demo:
+
+   - aplikacji - najlepiej wczesna alpha,
+   - `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft);
+
+   Wykład:
+
    - [Techniki projektowania i wdrażania skalowalnych aplikacji](03_projektowanie_i_wdrazanie/README.md);
    - [Metryki dla efektywnych zespołów](03_metrics/README.md).
 
-5. Cześć 4:
+4. Spotkanie 4:
 
-   - [Techniki skalowania i testowania aplikacji](04_skalowanie_i_testowanie/README.md);
-   - Oddanie projektu (v1 przesłanie do prowadzącego, tydzień przed ostatnim spotkaniem), demo, oraz dyskusja lesson learnt ([wymagania](04_oddanie_projektu/README.md));
-   - [Potrzeba procesów oraz checklisty](04_checklists_and_process_iterations/README.md);
+   - demo,
+   - wykład: [Techniki skalowania i testowania aplikacji](04_skalowanie_i_testowanie/README.md).
+
+5. Spotkanie 5:
+
+   - Oddanie projektu (v1 przesłanie do prowadzącego, tydzień przed ostatnim spotkaniem), demo, oraz dyskusja lesson learnt ([wymagania](05_oddanie_projektu/README.md));
    - Egzamin.
 
 ## Materiały dodatkowe
