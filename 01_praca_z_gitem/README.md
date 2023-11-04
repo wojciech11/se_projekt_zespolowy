@@ -2,11 +2,16 @@
 
 Powtórka podstaw - [instrukcja](https://github.com/wojciech11/se_software_build_automation_tools/blob/master/01_exercise/README_pl.md).
 
-Git is not only a tool for storing the code but a powerfull communication tool for teams!
+Git is not only a tool for storing the code but a powerful communication tool for teams!
 
 ## Best Practises
 
-Demo 1:
+General:
+
+- *master* / *main* /... - always working software!
+- Continuous Deployment ASAP
+
+## Demo 1:
 
 My default workflow:
 
@@ -16,20 +21,20 @@ My default workflow:
 - optional: early in draft (good for communication).
 - **Mono repo first**
 
-Demo 2 - working with env:
+## Demo 2 - working with env:
 
-Example:
+Praca z różnymi środowiskami:
 
-1. Local
-2. Dev
-3. Staging / Pre-prod
-4. Prod
+1. Local - na laptopie;
+2. Dev - środowisko deweloperskie;
+3. Staging / Pre-prod - prawie jak produkcja;
+4. Prod.
 
-Bonus: env per brach
+Bonus: później można zainwestować w możliwość tworzenia, tymczasowych środowisk dla otwartych Pull Requests lub Merge Requests.
 
-Demo 3 - commit messages
+## Demo 3 - commit messages
 
-- My defaul: imperative -> semantic (see below),
+- My default: imperative -> semantic (see below),
 - [commit messages](https://github.com/wojciech11/se_software_build_automation_tools/blob/master/01_exercise/README_pl.md#zaawansowane---w%C5%82a%C5%9Bciwe-opisy-zmian).
 
 ## Tools
