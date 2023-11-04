@@ -36,7 +36,7 @@ Nie od razu możesz mieć idealny proces i narzędzia, co każdą iterację star
 
 Szeroko rozumiany Agile-a:
 - Kanban ([prokanban](https://prokanban.org/the-kanban-guide/)) lub SCRUM ([book](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2/));
-- Długość cyklu - najlepiej 1 tydzień.
+- Długość cyklu - najlepiej 1 tydzień, max 2 tygodnie.
 
 ---
 <!-- _class: lead -->
@@ -63,6 +63,17 @@ Komunikacja:
 
 ---
 <!-- _class: lead -->
+# Narzędzia
+<br />
+
+Misc:
+
+- [easyretro](https://easyretro.io/) dla retrospektyw,
+- [miro](https://miro.com/),
+- ...
+
+---
+<!-- _class: lead -->
 ## Teams
 <br>
 
@@ -74,11 +85,12 @@ Komunikacja:
 ## Metoda dostarczania nowych wersji
 <br />
 
-Jak najszybciej: Continuous Deployment!
+Jak najszybciej - Continuous Deployment!
 
 - mnogość rozwiązań CI/CD,
 - Gitlab,
-- Github.
+- Github,
+- Pamiętaj [DF & LT](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance).
 
 ---
 <!-- _class: lead -->
@@ -88,7 +100,7 @@ Jak najszybciej: Continuous Deployment!
 - Wstępne ustalenie stacku technologicznego,
 - Sposób udostępniania aplikacji użytkownikom,
 - Monolit vs Mikroserwisy,
-- -&gt; architektura (draw.io),
+- -&gt; architektura,
 - -&gt; design doc.
 
 ---
@@ -130,7 +142,6 @@ Klasyczne:
 ---
 <!-- _class: lead -->
 # Podział na role
-
 
 ---
 <!-- _class: lead -->
