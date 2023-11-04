@@ -55,10 +55,10 @@ Spotykamy się 5 weekendów (bloki po 6h):
 
 ### Techniczne
 
-- [Programowanie Aplikacji Internetowych](https://github.com/wojciech11/se_internet_app_development),
+- [Programowanie Aplikacji Internetowych](https://github.com/wojciech11/se_internet_app_development);
 - [Administracja i budowa aplikacji w chmurze](https://github.com/wojciech11/se_cloud_app_administration_and_development);
 - [Narzędzia i platformy dla budowy aplikacji w chmurze](https://github.com/wojciech11/cloud_dev_tools_and_platforms);
-- [Continuous Delivery i deployment ](https://github.com/wojciech11/se_continuous_delivery_and_deployment),
+- [Continuous Delivery i deployment ](https://github.com/wojciech11/se_continuous_delivery_and_deployment);
 - [12factor app](https://12factor.net/);
 - [K8S and CN for devs](https://github.com/wojciech12/workshop_kubernetes_and_cloudnative).
 
@@ -75,4 +75,4 @@ Spotykamy się 5 weekendów (bloki po 6h):
 
 ### Kariera
 
-- [Wskazówki dla kontynuowania rozwoju oraz przygotowania CV, LinkedINa i githuba](https://github.com/wojciech11/se_career_hints_cv_linkedin_and_interviews)
+- [Wskazówki dla kontynuowania rozwoju oraz przygotowania CV, LinkedINa i githuba](https://github.com/wojciech11/se_career_hints_cv_linkedin_and_interviews).
