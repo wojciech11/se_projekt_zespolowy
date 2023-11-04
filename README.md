@@ -19,7 +19,7 @@ Spotykamy się 5 weekendów (bloki po 6h):
    - [Design Doc](02_design_doc/README.md) - jako kluczowy element budowy oprogramowania;
    - [Praca z gitem w zespole](01_praca_z_gitem/README.md).
 
-3. Spotkanie 2 - demo:
+2. Spotkanie 2 - demo:
 
    - github repozytorium z design doc, `README.md` i `docs/plan.md`;
    - jak się zespół komunikuje między spotkaniami (slack, discord?);
