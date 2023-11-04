@@ -21,33 +21,52 @@ style: |
 - Co chcemy stworzyć (what?),
 - W jakim celu chcemy to stworzyć (why?),
 - W jaki sposób chcemy to stworzyć (how?),
-- -&gt; design doc.
+- następnym kroki: design doc oraz UX/UI mockupy.
+
+---
+<!-- _class: lead -->
+## Pamiętaj
+
+Nie od razu możesz mieć idealny proces i narzędzia, co każdą iterację staraj się poprawiać co i jak pracujecie jako team. Kluczowe są retrospektywy!
 
 ---
 <!-- _class: lead -->
 ## Metody wytwarzania oprogramowania
 <br>
 
-- Agile,
-- Narzędzia do trackowania tasków (github, JIRA, YouTrack, ClickUp),
+Szeroko rozumiany Agile-a:
+- Kanban ([prokanban](https://prokanban.org/the-kanban-guide/)) lub SCRUM ([book](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2/));
+- Długość cyklu - najlepiej 1 tydzień.
 
 ---
 <!-- _class: lead -->
-# Komunikacja
+## Narzędzia
+<br />
 
-Ustalenie:
+Trackowanie zadań oraz WIP:
 
-- chat (discord/slack)
-- syncs, project meetings,
-- github (workflow),
-- board.
+- YouTrack
+- Github projects
+- JIRA
+- ClickUp
+
+---
+<!-- _class: lead -->
+# Narzędzia
+<br />
+
+Komunikacja:
+
+- Praca z tablicą zadań;
+- chat (slack/discord);
+- regularne spotkania: project meetings, daily standups, pairing sessions.
 
 ---
 <!-- _class: lead -->
 ## Teams
 <br>
 
-- [Product teams vs feature teams](https://www.svpg.com/product-vs-feature-teams/),
+- [**Product teams** vs feature teams](https://www.svpg.com/product-vs-feature-teams/),
 - Organizacja zespołów (patrze [team topologies](https://teamtopologies.com/key-concepts)).
 
 ---
@@ -55,8 +74,11 @@ Ustalenie:
 ## Metoda dostarczania nowych wersji
 <br />
 
-- Continuous Delivery,
-- github workflow.
+Jak najszybciej: Continuous Deployment!
+
+- mnogość rozwiązań CI/CD,
+- Gitlab,
+- Github.
 
 ---
 <!-- _class: lead -->
@@ -83,28 +105,57 @@ Ustalenie:
 
 ---
 <!-- _class: lead -->
+## Plan
+<br />
+
+Ma wpływ na architekturę aplikacji:
+
+- v1/v2,
+- Jakie funkcjonalności najpierw damy do rąk klientom...
+- Jakie decyzje tech chcemy opóźnić?
+
+---
+<!-- _class: lead -->
 ## Elementy aplikacji
 <br />
 
-- Frontend
-- Backend
-- Bazy Danych
-- Warstwa serwerowa
-- Warstwa sieciowa
+Klasyczne:
+
+- Frontend,
+- Backend,
+- Bazy Danych,
+- Warstwa serwerowa,
+- Warstwa komunikacji.
 
 ---
 <!-- _class: lead -->
 # Podział na role
+
+
+---
+<!-- _class: lead -->
+## Podział na role
+
+Podstawa ([wartości](https://gist.github.com/adamwiggins/5687294)):
+
+- You own your inputs,
+- Make it real,
+- DRI,
+- Do-ocracy,
+- Drum-beat comes from people doing the most of the work.
 
 ---
 <!-- _class: lead -->
 ## Role w projekcie
 <br />
 
-- Owner projektu / lead (nie koniecznie menager!),
-- Frontend,
-- Backend,
-- ...
+Przykład:
+
+- Team/Squad lead,
+- Product manager,
+- UX/UI designer
+- Frontend/Mob developer,
+- Backend developer.
 
 ---
 <!-- _class: lead -->
