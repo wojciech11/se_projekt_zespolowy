@@ -14,12 +14,12 @@ Spotykamy się 5 weekendów (bloki po 6h):
 
 1. Pierwsze kroki:
 
-    - Co zbudować: [jak znaleźć pomysł](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_finding_ideas) i [przykłady tematów na duże projekty](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_topic_examples);
+   - Co zbudować: [jak znaleźć pomysł](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_finding_ideas) i [przykłady tematów na duże projekty](https://github.com/wojciech11/se_techniczny_projekt_nowatorski/tree/master/01_topic_examples);
    - Techniczne aspekty i organizacja zespołu - [slajdy](01_intro/slides.pdf) ([md](01_intro/slides.md));
    - [Design Doc](02_design_doc/README.md) - jako kluczowy element budowy oprogramowania;
    - [Praca z gitem w zespole](01_praca_z_gitem/README.md).
 
-3. Spotkanie 2, demo:
+3. Spotkanie 2 - demo:
 
    - github repozytorium z design doc, `README.md` i `docs/plan.md`;
    - jak się zespół komunikuje między spotkaniami (slack, discord?);
@@ -31,7 +31,7 @@ Spotykamy się 5 weekendów (bloki po 6h):
     - Jak planować i komunikować (zarządzać oczekiwaniami) na zewnątrz?
     - [Techniki komunikacji serwisów](02_srv_comm/README.md).
 
-3. Spotkanie 3, demo:
+3. Spotkanie 3 - demo:
 
    - aplikacji - najlepiej wczesna alpha;
    - `docs/plan.md` oraz `docs/design_doc.md` (więcej niż draft).
@@ -48,7 +48,7 @@ Spotykamy się 5 weekendów (bloki po 6h):
 
 5. Spotkanie 5:
 
-   - Oddanie projektu (v1 przesłanie do prowadzącego, tydzień przed ostatnim spotkaniem), demo, oraz dyskusja lesson learnt ([wymagania](05_oddanie_projektu/README.md));
+   - Oddanie projektu (v1 przesłanie do prowadzącego, tydzień przed ostatnim spotkaniem), **demo**, oraz dyskusja lesson learnt ([wymagania](05_oddanie_projektu/README.md));
    - Egzamin.
 
 ## Materiały dodatkowe
