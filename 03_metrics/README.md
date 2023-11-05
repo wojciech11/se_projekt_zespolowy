@@ -30,7 +30,7 @@ I bring at the 1on1 and retros DF and Lead Time; there were a few times when we 
 
 ## Work mgmt
 
-- Kanban - aging tasks first, before anything more complex, reducing WIP (see Fixing Your Kanban](https://www.youtube.com/watch?v=ZP2NOy0EBgI&list=PL9uyGDiy_ChVfUxjc5gowNg0wW0gLFnx6)),
+- Kanban - aging tasks first, before anything more complex, reducing WIP (see [Fixing Your Kanban](https://www.youtube.com/watch?v=ZP2NOy0EBgI&list=PL9uyGDiy_ChVfUxjc5gowNg0wW0gLFnx6)),
 - Scrum - weekly, the process own by the team.
 
 ## References
@@ -50,5 +50,4 @@ I bring at the 1on1 and retros DF and Lead Time; there were a few times when we 
 
 - [Scrum + Kanban from Trenches](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2/);
 - ShapeUp (tutaj nie mam doświadczenia) - https://basecamp.com/shapeup;
-- https://blog.crisp.se/.
-
+- Świetne źródło inspiracji - https://blog.crisp.se/.
