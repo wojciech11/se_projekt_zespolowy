@@ -25,12 +25,12 @@ Spotykamy się 5 weekendów (bloki po 6h):
    - jak się zespół komunikuje między spotkaniami (slack, discord?);
    - początki aplikacji.
 
-    Wykład:
+   Wykład:
 
-    - Co to znaczy pracować w zespole?
-    - Jak planować i komunikować (zarządzać oczekiwaniami) na zewnątrz?
-    - [Demo Najlepsze praktyki](02_demo/README.md)
-    - [Techniki komunikacji serwisów](02_srv_comm/README.md).
+   - Co to znaczy pracować w zespole?
+   - Jak planować i komunikować (zarządzać oczekiwaniami) na zewnątrz?
+   - [Demo Najlepsze praktyki](02_demo/README.md)
+   - [Techniki komunikacji serwisów](02_srv_comm/README.md).
 
 3. Spotkanie 3 - demo:
 
