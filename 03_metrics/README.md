@@ -8,6 +8,8 @@
    - Failure rate,
    - MTTR.
 
+   Patrz [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) oraz [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339).
+
 - [SPACE](https://queue.acm.org/detail.cfm?id=3454124):
 
    - *Satisfaction* and well-being;
