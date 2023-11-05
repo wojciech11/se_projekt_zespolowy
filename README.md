@@ -29,7 +29,7 @@ Spotykamy się 5 weekendów (bloki po 6h):
 
     - Co to znaczy pracować w zespole?
     - Jak planować i komunikować (zarządzać oczekiwaniami) na zewnątrz?
-    - [co to jest demo?](02_demo/README.md)
+    - [Demo Najlepsze praktyki](02_demo/README.md)
     - [Techniki komunikacji serwisów](02_srv_comm/README.md).
 
 3. Spotkanie 3 - demo:
