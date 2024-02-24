@@ -4,7 +4,7 @@
 
 Naszym celem jest zbudowanie złożonej aplikacji, szlifowanie naszych umiejętności, eksperymentować i bawić się dobrze:
 
-Spotykamy się 5 weekendów (bloki po 6h):
+Spotykamy się 5 weekendów (bloki po 4 godziny lekcyjne):
 
 0. Wstęp - [slajdy](00_wstep/index.pdf) ([html](00_wstep)):
 
