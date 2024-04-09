@@ -18,6 +18,33 @@
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
 		<!-- <link rel="stylesheet" href="lib/css/zenburn.css"> -->
+
+		<style>
+			.reveal section img {
+				background-color:white;
+				border:0;
+				box-shadow: 0 0 0 0;
+			}
+
+			.reveal section code {
+				background-color:white;
+				border:0;
+				box-shadow: 0 0 0 0;
+			}
+
+
+			.reveal h4 {
+				text-transform: none;
+			}
+
+			.reveal h3 {
+				text-transform: none;
+			}
+
+			.reveal h2 {
+				text-transform: none;
+			}
+		</style>
 	</head>
 	<body>
 		<div class="reveal">
@@ -26,7 +53,7 @@
 
 					<img width="40%" src="img/intro.jpeg" />
 
-					<h3>P<span style="text-transform: lowercase;">rojekt zespołowy</span></h3>
+					<h3>Team projects - <span style="text-transform: lowercase;">best practices</span></h3>
 					
 					<h6><small>W<span style="text-transform: lowercase;">ojciech</span> B<span style="text-transform: lowercase;">arczyński</span> (M<span style="text-transform: lowercase;">erito)</span></small></h6>
 				</section>
@@ -52,7 +79,7 @@
 
 				<section data-markdown>
 					<script type="text/template">
-## B<span style="text-transform: lowercase;">est practices</span>
+### B<span style="text-transform: lowercase;">est practices</span>
 
 1. Design docs,
 2. UX/UI design,
@@ -68,9 +95,7 @@
 
 				<section data-markdown>
 					<script type="text/template">
-## B<span style="text-transform: lowercase;">est practices</span>
-
-Everything is an experiment and iteration:
+#### Everything is an experiment and iteration
 
 1. Pre-mortems,
 
@@ -86,7 +111,7 @@ Everything is an experiment and iteration:
 
 				<section data-markdown>
 					<script type="text/template">
-## B<span style="text-transform: lowercase;">est practices</span>
+### B<span style="text-transform: lowercase;">est practices</span>
 
 OODA:
 
@@ -96,7 +121,7 @@ OODA:
 
 				<section data-markdown>
 					<script type="text/template">
-## E<span style="text-transform: lowercase;">ngineering</span> C<span style="text-transform: lowercase;">ulture</span>
+### E<span style="text-transform: lowercase;">ngineering</span> C<span style="text-transform: lowercase;">ulture</span>
 
 Strong foundation:
 
@@ -114,7 +139,7 @@ Strong foundation:
 
 				<section data-markdown>
 					<script type="text/template">
-## E<span style="text-transform: lowercase;">ngineering</span> C<span style="text-transform: lowercase;">ulture</span>
+### E<span style="text-transform: lowercase;">ngineering</span> C<span style="text-transform: lowercase;">ulture</span>
 
 Quality of communication:
 
@@ -130,7 +155,7 @@ Quality of communication:
 
 				<section data-markdown>
 					<script type="text/template">
-## C<span style="text-transform: lowercase;">onsider</span>
+### C<span style="text-transform: lowercase;">onsider</span>
 
 - Size of the team and the company,
 - Experience of the engineers,
@@ -169,7 +194,7 @@ Test/Validate the idea before writing code:
 
 - A good place to track design decions later.
 
-<small><p>tips: number of <a href="https://capwatkins.com/blog/the-sliding-scale-of-giving-a-fuck">f-given</a>, "yes, and"</p></small>
+<!-- small><p>tips: number of <a href="https://capwatkins.com/blog/the-sliding-scale-of-giving-a-fuck">f-given</a>, "yes, and"</p></small -->
 					</script>
 				</section>
 
@@ -190,11 +215,11 @@ Test/Validate the idea before writing code:
 
 - Does not need to be a complex process (see [book](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)); 
 
-- Design Doc, code example, ...,
+- Design Doc, code example, ...;
 
-- [Qualitative and Quantitative](https://www.svpg.com/the-two-core-competencies/).
+- [Qualitative and Quantitative](https://www.svpg.com/the-two-core-competencies/);
 
-<small><p><a href="https://www.youtube.com/watch?v=LJay5YW4fLA">a propos podejścia do klienta</a></p></small>
+- Check tipics from [YC](https://www.youtube.com/watch?v=LJay5YW4fLA).
 					</script>
 				</section>
 
@@ -225,11 +250,24 @@ Be aware / communicate:
 					<script type="text/template">
 ## 4. I<span style="text-transform: lowercase;">nitial Plan</span>
 
-- kilka scenariuszy kompletnosc/jakosc/**szybkosc**,
-- Deliver -&gt; patch/patch/patch / [Tracer Bullet Dev](https://wiki.c2.com/?TracerBullets),
+- Lay few alternatives scenarios out - completness/quality/**speed**;
+
+- Deliver -&gt; patch/patch/patch / [Tracer Bullet Dev](https://wiki.c2.com/?TracerBullets);
+
 - [v1/v2](https://katemats.com/blog/lean-software-development-build-v1s-and-v2s).
-- co musimy zwalidować najpierw / [MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
-- Invest first: Spike albo PoC.
+					</script>
+				</section>
+
+				<section data-markdown>
+					<script type="text/template">
+
+## 4. I<span style="text-transform: lowercase;">nitial Plan</span>
+
+- what we need first to learn, risk to address, key value to deliver;
+
+- [MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)?
+
+- Uncharted territory? Spike or PoC.
 					</script>
 				</section>
 
@@ -249,11 +287,11 @@ Be aware / communicate:
 					<script type="text/template">
 ## 6. W<span style="text-transform: lowercase;">ork as a team</span>
 
-1. Daily syncs,
+1. Daily syncs (driven by the team);
 
-2. Working pairs/programming,
+2. Working in pairs+ or pair programming;
 
-3. Swarming,
+3. Swarming;
 
 4. <a href="https://gist.github.com/adamwiggins/5687294">Do-ocracy</a> / owning inputs.
 					</script>
@@ -261,30 +299,51 @@ Be aware / communicate:
 
 				<section data-markdown>
 					<script type="text/template">
-## 7. T<span style="text-transform: lowercase;">rack progress update the plan</span>
+## 6. W<span style="text-transform: lowercase;">ork as a team</span>
+
+- Blocked or struggle -&gt; let the team know.
+					</script>
+				</section>
+
+				<section data-markdown>
+					<script type="text/template">
+### 7. T<span style="text-transform: lowercase;">rack progress & update the plan</span>
 
 Every 2 weeks:
 
-- demo session that every project stream presents what they done,
-- update the plan.
+1. Demo session that every project stream presents what they done,
+2. Update the plan.
 					</script>
 				</section>
 
 				<section data-markdown>
 					<script type="text/template">
-## 7. T<span style="text-transform: lowercase;">rack progress update the plan</span>
+### 7. T<span style="text-transform: lowercase;">rack progress & update the plan</span>
+
+Demo:
+
+- the best way to present the progress;
+- Sync;
+- Drum-beat;
+- everything is demoable!		
+					</script>
+				</section>
+
+				<section data-markdown>
+					<script type="text/template">
+### 7. T<span style="text-transform: lowercase;">rack progress update the plan</span>
 
 Every 2 weeks;
 
-- Add new tickets/taks;
+- Add new tickets/task;
 - Update plan and the ETA for v1, v2...;
-- Be honest with yourselve.
+- Be honest with yourself.
 					</script>
 				</section>
 
 				<section data-markdown>
 					<script type="text/template">
-## 7. T<span style="text-transform: lowercase;">rack progress update the plan</span>
+### 7. T<span style="text-transform: lowercase;">rack progress update the plan</span>
 
 Live demo!
 					</script>
@@ -294,11 +353,37 @@ Live demo!
 					<script type="text/template">
 ## 8. R<span style="text-transform: lowercase;">elease checklist</span>
 
-- getting the business on the same page;
-- testing;
-- pre-mortem if the rollout is complex;
-- release details;
-- metrics.
+- Getting the business on the same page;
+- Testing;
+- Pre-mortem if the rollout is complex;
+- Release details;
+- Metrics.
+					</script>
+				</section>
+
+				<section>
+					<h3>8. Release checklists</h3>
+					<div class="container">
+						<div class="row">
+							<div class='col-md-4'>
+								<img width="100%" src="https://m.media-amazon.com/images/I/61JiWnh3scL._SL1500_.jpg" />
+							</div>
+							<div class='col-md-8'>
+								<p><ul>
+									<li>Recording know-how;</li>
+									<li>Keep quality;</li>
+									<li>Do not make unneccessary mistakes..</li>
+									<li>...</li>
+								</ul></p>
+							</div>
+					</div>
+				</section>
+
+				<section data-markdown>
+					<script type="text/template">
+## 7. R<span style="text-transform: lowercase;">elease</span>
+
+- Feature flags (recommended),
 					</script>
 				</section>
 
@@ -306,29 +391,42 @@ Live demo!
 					<script type="text/template">
 ## 7. R<span style="text-transform: lowercase;">elease</span>
 
-- Feature flags,
+Remember, you have many options to release your software to manage customers' expectations:
+
 - Alpha, (Closed) Beta, RC.
 					</script>
 				</section>
 
 				<section data-markdown>
 					<script type="text/template">
-## M<span style="text-transform: lowercase;">isc</span>
+## 8. M<span style="text-transform: lowercase;">etrics</span>
 
-- komunikacja na publicznych kanałach (slack),
-- dokumenty we wspólnych GDrives,
-- wcześnie otwieranie PRa w draft.
+- Start with [DORA](https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling);
+- Deployent frequency and lead time.
+					</script>
+				</section>
+
+				<section data-background="img/high_perf_engineering.png" data-background-repeat="" data-background-size="100%"></section>
+
+				<section data-markdown>
+					<script type="text/template">
+### 9. T<span style="text-transform: lowercase;">ransparency</span> and communication
+
+- communicate only on public channels (slack),
+- documents only on shared GDrives,
+- starting work? Open a PR in draft.
 					</script>
 				</section>
 
 				<section data-markdown>
 					<script type="text/template">
-## M<span style="text-transform: lowercase;">etodyka?</span>
+### M<span style="text-transform: lowercase;">etodyka?</span>
 
-- Kanban z tygodniowymi cyklami według [prokanban.org](https://prokanban.org/) - mój domyślny tryb pracy,
-- [SCRUM](https://scrumguides.org/) z 1 tyg lub 2 tyg cyklami.
+- Kanban with weekly cycles following [prokanban.org](https://prokanban.org/) - my preference,
 
-<small><p>Ciekawym jest również koncept [flight levels](https://www.youtube.com/watch?v=yBk0mYKL8f8)</a></small>
+- [SCRUM](https://scrumguides.org/) with 1-week or 2-weeks cycles.
+
+<small><p>For larger companies, the concept of [flight levels](https://www.youtube.com/watch?v=yBk0mYKL8f8) is worth exploring. </small>
 					</script>
 				</section>
 
