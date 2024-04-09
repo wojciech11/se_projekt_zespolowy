@@ -1,4 +1,5 @@
 DECKTAPE_VERSION=3
+SLIDES_LANG=en_US
 
 # npm install decktype
 # node node_modules/decktape/decktape.js -s 2560x1600 index.html index.pdf
@@ -12,4 +13,4 @@ give_me_zip:
 	cd .. && zip -r $(CURDIR).zip $(CURDIR)/*
 
 spelling:
-	hunspell -d pl_PL index.html
+	hunspell -d $(SLIDES_LANG) index.html
