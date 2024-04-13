@@ -6,7 +6,7 @@ Naszym celem jest zbudowanie złożonej aplikacji, szlifowanie naszych umiejętn
 
 Spotykamy się 5 weekendów (bloki po 4 godziny lekcyjne):
 
-0. Wstęp - [slajdy](00_wstep/index.pdf) ([html](00_wstep)):
+0. Wstęp - [podstawowe informacje](00_wstep/index.pdf) ([html](00_wstep)) i [najlepsze praktyki](01_best_practices/index.pdf):
 
    - Najlepsze praktyki dla budowy oprogramowania w zespole;
    - Przedstawienie wymagań projektowych;
