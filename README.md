@@ -50,7 +50,11 @@ Spotykamy się 5 weekendów (bloki po 4 godziny lekcyjne):
 5. Spotkanie 5:
 
    - Oddanie projektu (v1 przesłanie do prowadzącego, tydzień przed ostatnim spotkaniem), **demo**, oraz dyskusja lesson learnt ([wymagania](05_oddanie_projektu/README.md));
-   - Egzamin.
+   - **Przesłać emaila** do prowadzącego:
+
+       - tytuł: *Zaliczenie, Projekt Nowatorski 3, nazwa_grupy*;
+       - treść: linkiem do repozytorium githuba, archiwum repozytorium github, oraz listę, kto był w grupie.
+   - Test.
 
 ## Materiały dodatkowe
 
