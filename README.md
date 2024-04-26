@@ -55,6 +55,8 @@ Spotykamy się 5 weekendów (bloki po 4 godziny lekcyjne):
        - tytuł: *Zaliczenie, Projekt Zespołowy, nazwa_grupy*;
        - treść: linkiem do repozytorium githuba, archiwum repozytorium github, oraz kto był w zespóle (imie, nazwisko, numer indexu).
 
+   - test z materiałów, które znajdziecie w tym repozytorium.
+
 ## Materiały dodatkowe
 
 ### Techniczne
