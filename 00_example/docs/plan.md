@@ -1,6 +1,6 @@
 ## Plan
 
-For managing tasks, you can use the github project. The further in time, the bigger unit we use:
+For managing tasks, you can use the Github project. The further in time, the bigger unit we use:
 
 Data                    |  Task(s)        | Notatka   |
 ------------------------|-----------------|-----------|
@@ -11,7 +11,7 @@ ps. We use the markdown solely for educational intentions here. There are much b
 
 ### Project Tracking
 
-To do, every 2nd week upate the ETA for the v1 and v1:
+To do, every 2nd week update the ETA for the v1 and v1:
 
 Data (checkpoint)   |  ETA                 | Notatka            |
 --------------------|----------------------|--------------------|
